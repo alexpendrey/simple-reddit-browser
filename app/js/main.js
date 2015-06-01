@@ -1,4 +1,11 @@
 
+//Globally declaring jquery for bootstrap dependency
+
+$ = jQuery = require('jquery');
+
+var bootstrap = require('bootstrap');
+
+
 var page = require('page');
 
 require('./routes/home');

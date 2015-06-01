@@ -1,4 +1,3 @@
-'use strict';
 
 (function() {
     var page = require('page');
